@@ -1,11 +1,13 @@
-.shivam-0
+.head
 {
-    
+    background-image: url('Screenshot1.jpg.png');
+    background-color: aqua;
 }
 
 .shivam-1
 {
-
-
-    
+    background-image: url('Screenshot1.jpg.png');
+    background-repeat: no-repeat;
+    margin-top: auto;
+    width: max-content;
 }
